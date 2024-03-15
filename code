@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Change Text Color</title>
+</head>
+<body>
+
+<!-- Text with default color -->
+<p>This is some text with default color.</p>
+
+<!-- Text with custom color -->
+<p style="color: red;">This is some text with custom color (red).</p>
+
+<!-- Text with hexadecimal color -->
+<p style="color: #00FF00;">This is some text with hexadecimal color (#00FF00).</p>
+
+<!-- Text with RGB color -->
+<p style="color: rgb(255, 0, 255);"> is some text with RGB color (255, 0, 255).</p>
+
+</body>
+</html>
+
