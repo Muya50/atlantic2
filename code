@@ -17,7 +17,7 @@
 <p style="color: #00FF00;">This is some text with hexadecimal color (#00FF00).</p>
 
 <!-- Text with RGB color -->
-<p style="color: rgb(255, 0, 255);"> is some text with RGB color (255, 0, 255).</p>
+<p style="color: rgb(255, 0, 255);"> this is some text with RGB color (255, 0, 255).</p>
 
 </body>
 </html>
